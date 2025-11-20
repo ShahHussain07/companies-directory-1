@@ -1,0 +1,10 @@
+Suggested 2-3 minute walkthrough script (recording):
+
+0:00-0:10 – Quick intro: name, role applied for, and what you're about to show.
+0:10-0:45 – Show the running app: list view, responsive behavior (resize), search/filter by name, location, industry.
+0:45-1:15 – Demonstrate sorting and pagination; open a company detail card to show details.
+1:15-1:45 – Briefly open the code: explain folder structure (src/components, src/App.jsx, public/companies.json), key hooks and logic (fetch, filters, memoized lists).
+1:45-2:00 – Explain decisions: why static JSON for mock API, accessibility & UX choices, responsiveness.
+2:00-2:15 – Closing: how to run, GitHub link, deploy link, and thanks.
+
+Record slowly and show the browser + VS Code windows when mentioning code.

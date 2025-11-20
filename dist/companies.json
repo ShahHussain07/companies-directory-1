@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Astra Tech",
+    "location": "Bengaluru",
+    "industry": "Software",
+    "website": "https://astratech.ae/",
+    "description": "Cloud solutions and SaaS products.",
+    "size": "201-500"
+  },
+  {
+    "id": 2,
+    "name": "BlueWave Media",
+    "location": "Mumbai",
+    "industry": "Media",
+    "website": "https://bluewavesmedia.in/",
+    "description": "Digital media and content production.",
+    "size": "51-200"
+  },
+  {
+    "id": 3,
+    "name": "Infosys",
+    "location": "Karnataka",
+    "industry": "IT Solutions",
+    "website": "https://www.infosys.com/",
+    "description": "IT Solutions and Services.",
+    "size": "501-1000"
+  },
+  {
+    "id": 4,
+    "name": "DigiCore Labs",
+    "location": "Hyderabad",
+    "industry": "Software",
+    "website": "https://www.digicorelab.com/",
+    "description": "AI research and solutions.",
+    "size": "1001-5000"
+  },
+  {
+    "id": 5,
+    "name": "EcoBuild",
+    "location": "Chennai",
+    "industry": "Construction",
+    "website": "http://ecobuildcorp.com/",
+    "description": "Sustainable building materials.",
+    "size": "51-200"
+  },
+  {
+    "id": 6,
+    "name": "FinFlow",
+    "location": "Bengaluru",
+    "industry": "Fintech",
+    "website": "https://finflow.in/",
+    "description": "Payments and lending platform.",
+    "size": "201-500"
+  },
+  {
+    "id": 7,
+    "name": "GreenGrid Energy",
+    "location": "Delhi",
+    "industry": "Energy",
+    "website": "https://greengridenergy.com.au/",
+    "description": "Solar energy solutions.",
+    "size": "51-200"
+  },
+  {
+    "id": 8,
+    "name": "Helix Biotech",
+    "location": "Bengaluru",
+    "industry": "Biotech",
+    "website": "https://www.helixbiotech.com/product-page/egfp-mrna?gad_source=1&gad_campaignid=23082800601&gbraid=0AAAAAooThPuGyIeZ3gzuu3XjiMsFs5XuS&gclid=CjwKCAiA8vXIBhAtEiwAf3B-g5hvRgesWAR4gLzgGevXuuBa4xWq6ZN2ED4o9YDIyZAGemMwfcTGchoCMSYQAvD_BwE",
+    "description": "Clinical research and therapeutics.",
+    "size": "201-500"
+  },
+  {
+    "id": 9,
+    "name": "Innova Retail",
+    "location": "Mumbai",
+    "industry": "Retail",
+    "website": "https://innovaretail.co.in/?srsltid=AfmBOoq9yGVVkUut-Ev4515l8xjuapfXqbXEB5qDKJ1a5p4jZrOLzRcw",
+    "description": "Omnichannel retail solutions.",
+    "size": "501-1000"
+  },
+  {
+    "id": 10,
+    "name": "Jupiter Logistics",
+    "location": "Chennai",
+    "industry": "Logistics",
+    "website": "https://jupiterlogistics.group/",
+    "description": "Supply chain and freight.",
+    "size": "201-500"
+  },
+  {
+    "id": 11,
+    "name": "Airbus",
+    "location": "Bengaluru",
+    "industry": "Airoplanes",
+    "website": "https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-asia-pacific/airbus-in-india",
+    "description": "Aicrafts Manufacture.",
+    "size": "51-200"
+  },
+  {
+    "id": 12,
+    "name": "Lumina Systems",
+    "location": "Pune",
+    "industry": "Software",
+    "website": "https://www.luminasystems.net/en/",
+    "description": "Enterprise integrations.",
+    "size": "1001-5000"
+  },
+  {
+    "id": 13,
+    "name": "MediSure",
+    "location": "Hyderabad",
+    "industry": "Healthcare",
+    "website": "https://medisure.in/",
+    "description": "Health tech platforms.",
+    "size": "201-500"
+  },
+  {
+    "id": 14,
+    "name": "NanoTech Labs",
+    "location": "Bengaluru",
+    "industry": "Research",
+    "website": "https://www.nanotechlabs.com/",
+    "description": "Material science research.",
+    "size": "51-200"
+  },
+  {
+    "id": 15,
+    "name": "Orbit Foods",
+    "location": "Mumbai",
+    "industry": "FMCG",
+    "website": "https://orbitfoods.co.uk/",
+    "description": "Packaged foods and beverages.",
+    "size": "501-1000"
+  },
+  {
+    "id": 16,
+    "name": "Pulse Analytics",
+    "location": "Bengaluru",
+    "industry": "Analytics",
+    "website": "https://www.pulseanalyticsapp.com/e",
+    "description": "Data analytics and BI.",
+    "size": "51-200"
+  },
+  {
+    "id": 17,
+    "name": "Accenture",
+    "location": "Banglore",
+    "industry": "IT Services and Consulting",
+    "website": "https://www.accenture.com/in-en/about/company-index?c=acn_glb_locationmarketiyext_11188279&n=otc_0320",
+    "description": "IT Services and Consulting.",
+    "size": "201-500"
+  },
+  {
+    "id": 18,
+    "name": "Rising Sun Education",
+    "location": "Chennai",
+    "industry": "Education",
+    "website": "https://risingsuneducation.ca/",
+    "description": "Edtech courses and platforms.",
+    "size": "51-200"
+  },
+  {
+    "id": 19,
+    "name": "Sapphire Interiors",
+    "location": "Delhi",
+    "industry": "Design",
+    "website": "https://www.sapphireinterior.com/",
+    "description": "Interior design and architecture.",
+    "size": "51-200"
+  },
+  {
+    "id": 20,
+    "name": "Titan Robotics",
+    "location": "Bengaluru",
+    "industry": "Robotics",
+    "website": "https://www.titanrobots.com/",
+    "description": "Industrial automation.",
+    "size": "501-1000"
+  }
+]
